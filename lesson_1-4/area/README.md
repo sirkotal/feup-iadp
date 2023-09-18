@@ -1,1 +1,1 @@
-Given a list of n values, compute the percentage of positive values and negative values.
+Calculate the area of a triangle given the values of the base and height
